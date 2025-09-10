@@ -1,0 +1,9 @@
+- DocID-- > Load doc through the middleware so we get arrays of items.
+- targeting-- > Name of the column like Market-- > This column is the one we should filter it on and we know the value it should filter by.Make sure we have all the possible properties.
+- Add a drop - down list to select market, and make a new call to the the containerSelector
+- ContainerID(CSS selector to select the right area)(edited)
+- Empty option in the dropdown to showcase fallback funcitonality of the fallback
+- “ad” --> responsive adtag
+- Ignore the trageting column and the ad column and then the rest is AD Content column
+- Run a JS script to override the Googlesheet data using those Ad Content columns
+    
